@@ -16,10 +16,10 @@ whatsup
 * welcome
 
 what's up
-* thanks
+* welcome
 
 good morning
-* goodbye
+* greeting
 
 good day
-* goodbye
+* greeting
